@@ -1,9 +1,7 @@
 {
     "recommendations": [
-        "ms-python.black-formatter",
-        "ms-python.pylint",
-        "ms-python.vscode-pylance",
-        "ms-python.debugpy",
-        "njpwerner.autodocstring"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
